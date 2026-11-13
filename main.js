@@ -1,7 +1,7 @@
 let maDiv1;
 let mesDivs;
 maDiv1 = document.getElementById("MaDiveNum1");
-mesDivs = document.getElementsByName("mesDivs")
+mesDivs = document.getElementsByName("mesDivs");
 
 function modifierDiv1(div){
     div.innerHTML = "hello";
